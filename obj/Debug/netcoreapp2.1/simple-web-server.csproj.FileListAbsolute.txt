@@ -1,0 +1,11 @@
+D:\Work\C#\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.deps.json
+D:\Work\C#\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.runtimeconfig.json
+D:\Work\C#\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.runtimeconfig.dev.json
+D:\Work\C#\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.dll
+D:\Work\C#\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.pdb
+D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.csprojAssemblyReference.cache
+D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.csproj.CoreCompileInputs.cache
+D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.AssemblyInfoInputs.cache
+D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.AssemblyInfo.cs
+D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.dll
+D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.pdb
