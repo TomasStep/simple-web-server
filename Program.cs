@@ -70,7 +70,7 @@ namespace simple_web_server
         public void Stop()
         {
             listener.Stop();
-            listener.Close();
+            //listener.Close();
         }
     }
     class Program
@@ -78,7 +78,7 @@ namespace simple_web_server
         public static string SendResponse(HttpListenerRequest request)
         {
             //Servers poor main page for users, greetings and date/time
-            var greetings = $"<html><body><h1>Greetings</h1><p>This is a test web server, </br></br>The current time is {DateTime.Now}</p></body></html>";
+            var greetings = $"<html><body><h1>Greetings!</h1><p>This is a test web server.</br></br>The current time is {DateTime.Now}</p></body></html>";
             return string.Format(greetings);
         }
         private static void Main(string[] args)
@@ -87,7 +87,7 @@ namespace simple_web_server
             var port = 10000;
             WebServer webServer = new WebServer(SendResponse, $"http://localhost:{port}/test/");
             webServer.Run();
-            Console.WriteLine($"Hello, an example of a simple webserver.\nAddress:\nhttp://localhost:{port}/test/\nPort:{port} \nPress a key to quit...");
+            Console.WriteLine($"Hello, an example of a simple webserver.\nAddress:\nhttp://localhost:{port}/test/\nPort:{port} \nPress any key to quit...");
             Console.ReadKey();
             webServer.Stop();
         }

@@ -9,3 +9,14 @@ D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.AssemblyI
 D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.AssemblyInfo.cs
 D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.dll
 D:\Work\C#\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.pdb
+C:\Users\KVB\csharp\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.deps.json
+C:\Users\KVB\csharp\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.runtimeconfig.json
+C:\Users\KVB\csharp\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.runtimeconfig.dev.json
+C:\Users\KVB\csharp\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.dll
+C:\Users\KVB\csharp\simple-web-server\bin\Debug\netcoreapp2.1\simple-web-server.pdb
+C:\Users\KVB\csharp\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.csprojAssemblyReference.cache
+C:\Users\KVB\csharp\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.csproj.CoreCompileInputs.cache
+C:\Users\KVB\csharp\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.AssemblyInfoInputs.cache
+C:\Users\KVB\csharp\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.AssemblyInfo.cs
+C:\Users\KVB\csharp\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.dll
+C:\Users\KVB\csharp\simple-web-server\obj\Debug\netcoreapp2.1\simple-web-server.pdb
